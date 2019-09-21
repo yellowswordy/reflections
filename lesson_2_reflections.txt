@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's area in the middle for files to be commited. Just to reduce the error possibility.
