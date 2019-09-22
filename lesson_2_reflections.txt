@@ -4,14 +4,15 @@ It's area in the middle for files to be commited. Just to reduce the error possi
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-Just move and commit to files one by one. 
+Just move and commit to files one by one.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-It can help to introduce new feature without damaging working code. 
+It can help to introduce new feature without damaging working code.
 
 How do the diagrams help you visualize the branch structure?
 
 You see the full picture of all commits and branches
 
-
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One main branch with all commits sved in main branch and sorted by time stamp.
